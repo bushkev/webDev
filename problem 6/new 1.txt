@@ -1,0 +1,72 @@
+			<table class= "programs">
+				<caption>All Times Central</caption>
+					
+					<colgroup>
+						<col class="timeColumn" />
+						<col class="wDayColumn" span="5" />
+						<col class="wEndColumn" span="2"/>
+					</colgroup>
+					
+					<thead>
+						<tr>
+							<th>Time</th>
+							unfinished.
+
+					<tr>
+						<th>7:00</th>
+						<td colspan="5">Local News</td>
+						<td colspan="2">Weekend Wrap</td>
+						<td colspan="2">           missing info here                               </td>
+					</tr>
+					<tr>
+						<th>7:30</th>
+						<td colspan="5">World News Feed</td>
+						<td>Word Play</td>
+					</tr>
+					<tr>
+						<th>8:00</th>
+						<td rowspan="4" colspan="5">Classical Roots</td>
+						<td rowspan="3">What Can You Say?</td>
+						<td rowspan="4">University on the Air</td>
+					</tr>
+					<tr>
+						<th>8:30</th>
+					</tr>
+					<tr>
+						<th>9:00</th>
+					</tr
+					<tr>
+						<th>9:30</th>
+						<td rowspan="3">Animal Talk</td>
+					</tr>
+					
+					<tr>
+						<th>10:00</th>
+						<td rowspan="4" colspan="5">Symphony City</td>
+						<td>Word Play</td>
+					</tr>
+					<tr>
+						<th>10:30</th>
+						<td>Brain Stew</td>
+					</tr>
+					<tr>
+						<th>11:00</th>
+						<td rowspan="3">Opera Live from the East Coast</td>
+						<td>The Inner Mind</td>
+					</tr>
+					<tr>
+						<th>11:30</th>
+						<td>Grammer Rules!!</td>
+					</tr>
+					<tr>
+						<th>12:00</th>
+						<td rowspan="5">Book Club</td>
+						<td>Weekend Wrap</td>
+					</tr>
+				</tbody>
+			</table>
+		</section>
+	</div>
+	
+	<footer>
+	...
